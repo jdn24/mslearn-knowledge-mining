@@ -2,7 +2,7 @@
 
 # Set values for your Search service
 url="https://msbuildchalsearch.search.windows.net"
-admin_key="MeX7xxPdoUfx4H9eCFCpZWHN75I8NdsNcDITwtAmm1AzSeCdUFbA"
+admin_key=""
 
 echo -----
 echo "Updating the skillset..."
